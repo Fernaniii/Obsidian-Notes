@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## Idea
 
-- [ ] Test
-- [ ] [[Note with Picture]]
-- [ ] 
-- [ ] Test
+- [ ] Clean Architecture to .Net Web API
+- [ ] Clean Architecture to .Net MAUI
+- [ ] Migrating Blazor to Blazor Hybrid
 
 
 ## Research
 
-- [ ] Researches
+- [ ] Clean Architecture to Blazor Web App
 
 
 ## Complete Note
